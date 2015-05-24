@@ -1,2 +1,2 @@
-# KIT14Y
-KIT14Y group repository
+# KIT14P
+KIT14P group repository
